@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#C8C7CC",
+  "navigationBarTitleText": "编辑信息",
+  "usingComponents": {
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

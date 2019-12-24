@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#3F536E",
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-rate": "/components/uni-ui/uni-rate/uni-rate"
+  }
+}

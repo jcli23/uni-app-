@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#C0C0C0",
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-ui/uni-search-bar/uni-search-bar"
+  }
+}

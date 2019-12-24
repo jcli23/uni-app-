@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#C8C7CC",
+  "navigationBarTitleText": "修改生日",
+  "usingComponents": {
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}
